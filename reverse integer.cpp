@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/reverse-integer
+//https://leetcode.com/problems/reverse-integer/
 #include<limits.h>class Solution {
 public:
 int reverse(int x)

@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/sqrt(x)
+//https://leetcode.com/problems/sqrtx/
 #include<math>class Solution {
 public:
 int mySqrt(int x)
